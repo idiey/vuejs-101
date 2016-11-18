@@ -12,7 +12,7 @@ Then you're ready to run `php artisan clear:serve` - a simple command to clear a
 
 #### Gulp
 
-Make sure you have install `gulp-cli`. You may follow the installation guide here at [Laravel's Compliling Asset](https://laravel.com/docs/5.3/elixir#installation)
+Make sure you have install `gulp-cli`. You may follow the installation guide here at [Laravel's Compiling Asset](https://laravel.com/docs/5.3/elixir#installation)
 
 ### VueJs Introduction
 
