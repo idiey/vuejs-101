@@ -4,7 +4,11 @@
 
 ### Installation
 
-Clone this repo and run `composer install`. Setup your database and `.env` file. Then you're ready to run `php artisan clear:serve` - simple command to clear all caches then serve the application.
+Clone this repo and run `composer install`. 
+
+Setup your database in `.env` file and `php artisan migrate --seed`. 
+
+Then you're ready to run `php artisan clear:serve` - a simple command to clear all caches then serve the application.
 
 #### Gulp
 
